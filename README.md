@@ -1,8 +1,8 @@
-# Detector de Sonolência 🚗
+# Detector de Sonolência para motoristas
 
 App Flutter para detecção de sonolência em motoristas usando ML Kit.
 
-## Como restaurar
+## Como Instalar?
 
 1. Crie um novo projeto Flutter:
    ```
